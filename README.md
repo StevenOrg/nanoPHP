@@ -1,6 +1,6 @@
 #  nanophp
 #### 1. Instruction(tree) for nano
-nanoPHP is a light php framework.
+nanoPHP is a light php framework, partly freindy to front-ends developers and desingers.
 ```
 ____/
     |-public
