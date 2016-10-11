@@ -8,7 +8,7 @@
 define('DEBUGM',true);
 
 //open session or close session.
-define('SESSION_SWITCH',flase);
+define('SESSION_SWITCH',false);
 
 define('BASIC','v1.0');
 define('D',DIRECTORY_SEPARATOR);
